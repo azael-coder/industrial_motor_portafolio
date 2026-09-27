@@ -1,0 +1,19 @@
+event_date,motor_id,event_category,fault_mode,action,downtime_h,planned
+2026-06-18,MTR-015,Preventive,routine_pm,"Routine inspection, cleaning and electrical/mechanical checks",1.3,True
+2026-06-22,MTR-013,Preventive,routine_pm,"Routine inspection, cleaning and electrical/mechanical checks",2.0,True
+2026-07-01,MTR-017,Preventive,routine_pm,"Routine inspection, cleaning and electrical/mechanical checks",1.8,True
+2026-07-10,MTR-005,Preventive,routine_pm,"Routine inspection, cleaning and electrical/mechanical checks",0.6,True
+2026-07-25,MTR-029,Preventive,routine_pm,"Routine inspection, cleaning and electrical/mechanical checks",1.9,True
+2026-07-26,MTR-024,Preventive,routine_pm,"Routine inspection, cleaning and electrical/mechanical checks",0.7,True
+2026-07-28,MTR-007,Preventive,routine_pm,"Routine inspection, cleaning and electrical/mechanical checks",1.6,True
+2026-08-01,MTR-011,Preventive,routine_pm,"Routine inspection, cleaning and electrical/mechanical checks",1.0,True
+2026-08-02,MTR-018,Preventive,routine_pm,"Routine inspection, cleaning and electrical/mechanical checks",1.7,True
+2026-08-03,MTR-021,Preventive,routine_pm,"Routine inspection, cleaning and electrical/mechanical checks",0.9,True
+2026-08-03,MTR-030,Preventive,routine_pm,"Routine inspection, cleaning and electrical/mechanical checks",1.3,True
+2026-08-12,MTR-013,Bearing,bearing_wear,Inspect/replace bearing; verify lubrication and alignment,3.6,False
+2026-08-14,MTR-024,Misalignment,misalignment,Laser alignment inspection and coupling check,3.8,False
+2026-08-16,MTR-007,Cooling,cooling_degradation,"Inspect fan, fins and airflow path",2.2,False
+2026-08-19,MTR-019,Overload,mechanical_overload,Inspect driven load and mechanical resistance,4.8,False
+2026-08-22,MTR-028,Instrumentation,sensor_fault,Inspect temperature sensor and wiring,3.2,False
+2026-08-24,MTR-005,Electrical,voltage_unbalance,"Inspect supply voltage, terminals and phase loading",3.2,False
+2026-08-24,MTR-008,Preventive,routine_pm,"Routine inspection, cleaning and electrical/mechanical checks",1.0,True
