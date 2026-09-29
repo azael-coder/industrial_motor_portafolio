@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05e7f075-79e5-401a-a04f-ca9c0236fc07" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/industrial_motor_data/maintenance_events.csv" beforeDir="false" afterPath="$PROJECT_DIR$/industrial_motor_data/maintenance_events.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/industrial_motor_data/motor_readings.csv" beforeDir="false" afterPath="$PROJECT_DIR$/industrial_motor_data/motor_readings.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/industrial_motor_data/motors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/industrial_motor_data/motors.csv" afterDir="false" />
-    </list>
+    <list default="true" id="05e7f075-79e5-401a-a04f-ca9c0236fc07" name="Changes" comment="Agregados nuevos scripts de análisis" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +57,19 @@
       <option name="presentableId" value="Default" />
       <updated>1790466344013</updated>
     </task>
+    <task id="LOCAL-00001" summary="Agregados nuevos scripts de análisis">
+      <option name="closed" value="true" />
+      <created>1790647527518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790647527518</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agregados nuevos scripts de análisis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregados nuevos scripts de análisis" />
   </component>
 </project>
