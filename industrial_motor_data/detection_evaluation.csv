@@ -1,0 +1,7 @@
+motor_id,simulated_fault,expected_rule,first_expected_detection,first_any_detection,event_date,lead_time_hours,lead_time_days,detected_before_event,alarm_persistence_hours,max_condition_score,rules_at_first_alarm
+MTR-005,Electrical unbalance,Electrical unbalance,2026-08-14 09:00:00,2026-08-11 06:00:00,2026-08-24,231.0,9.62,True,214,65.33,Bearing degradation
+MTR-007,Cooling degradation,Cooling degradation,2026-07-31 05:00:00,2026-07-28 21:00:00,2026-08-16,379.0,15.79,True,308,30.99,Cooling degradation
+MTR-013,Bearing wear,Bearing degradation,2026-07-21 19:00:00,2026-07-18 21:00:00,2026-08-12,509.0,21.21,True,278,82.89,Bearing degradation
+MTR-019,Mechanical overload,Mechanical overload,2026-08-16 22:00:00,2026-08-05 07:00:00,2026-08-19,50.0,2.08,True,32,67.76,Bearing degradation
+MTR-024,Misalignment,Mechanical vibration / misalignment,2026-08-05 11:00:00,2026-06-03 00:00:00,2026-08-14,205.0,8.54,True,176,75.36,Temperature sensor anomaly
+MTR-028,Temperature sensor fault,Temperature sensor anomaly,2026-08-12 03:00:00,2026-08-09 07:00:00,2026-08-22,237.0,9.88,True,48,28.68,Temperature sensor anomaly

@@ -1,0 +1,7 @@
+fault_motor,simulated_fault,rule,true_positive,false_positive_motors,false_positive_motor_ids
+MTR-005,Electrical unbalance,Electrical unbalance,True,0,None
+MTR-007,Cooling degradation,Cooling degradation,True,0,None
+MTR-013,Bearing wear,Bearing degradation,True,0,None
+MTR-019,Mechanical overload,Mechanical overload,True,0,None
+MTR-024,Misalignment,Mechanical vibration / misalignment,True,0,None
+MTR-028,Temperature sensor fault,Temperature sensor anomaly,True,0,None
