@@ -22,7 +22,20 @@ TH = {
     "trend_temp_c_day": 0.50,
 }
 
-df = pd.read_csv(READINGS_FILE,parse_dates=["timestamp"])
+def prepare_plot_data(readings):
+    """Rebuild missing rolling medians using the analysis script's settings."""
+    readings = readings.sort_values(["motor_id", "timestamp"]).copy()
+    for col in ["load_pct", "current_pct_rated", "current_unbalance_pct"]:
+        rolling_col = f"{col}_med24"
+        if rolling_col not in readings.columns:
+            readings[rolling_col] = (
+                readings.groupby("motor_id")[col]
+                .transform(lambda s: s.rolling(24, min_periods=12).median())
+            )
+    return readings
+
+
+df = prepare_plot_data(pd.read_csv(READINGS_FILE, parse_dates=["timestamp"]))
 maintenance = pd.read_csv(MAINT_FILE, parse_dates=["event_date"])
 
 def plot_motor(motor_id, save=False):
