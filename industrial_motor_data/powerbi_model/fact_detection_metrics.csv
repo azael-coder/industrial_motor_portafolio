@@ -1,0 +1,10 @@
+metric,value
+Fault Motors,6.0
+Fault Motors Detected,6.0
+Detection Rate %,100.0
+Healthy Motors,24.0
+False Positive Motors,0.0
+False Positive Rate %,0.0
+Average Lead Time Days,11.19
+Average Alarm Persistence Hours,176.0
+Motors At Risk - Latest State,0.0

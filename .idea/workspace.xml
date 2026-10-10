@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05e7f075-79e5-401a-a04f-ca9c0236fc07" name="Changes" comment="Agregados nuevos scripts de análisis" />
+    <list default="true" id="05e7f075-79e5-401a-a04f-ca9c0236fc07" name="Changes" comment="Agregados nuevos scripts de análisis">
+      <change afterPath="$PROJECT_DIR$/comparison_model_events.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analyze_motor_condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/analyze_motor_condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/industrial_motor_data/healthy_motor_false_alarms.csv" beforeDir="false" afterPath="$PROJECT_DIR$/industrial_motor_data/healthy_motor_false_alarms.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "azael-coder"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/azael-coder/industrial_motor_portafolio.git",
+    "accountId": "24fbe0a9-27b9-45da-84ce-2e368cac1150"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -34,6 +51,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.analyze_motor_condition.executor": "Run",
+    "Python.comparison_model_events.executor": "Run",
+    "Python.consolidate_alarm_events_powerbi.executor": "Run",
     "Python.generate_motor_data.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",

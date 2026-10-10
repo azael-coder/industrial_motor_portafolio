@@ -1,0 +1,52 @@
+event_id,motor_id,area,criticality,condition_category,condition,rule,start_time,end_time,duration_h,max_condition_score,severity,lead_time_days,event_status,start_date,end_date
+EVT-00001,MTR-024,Finishing,Low,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-06-03 00:00:00,2026-06-03 00:00:00,1.0,25.0,Warning,72.0,Closed,2026-06-03,2026-06-03
+EVT-00002,MTR-024,Finishing,Low,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-06-25 12:00:00,2026-06-25 12:00:00,1.0,25.14,Warning,49.5,Closed,2026-06-25,2026-06-25
+EVT-00003,MTR-020,Utilities,Medium,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-06-28 03:00:00,2026-06-28 03:00:00,1.0,25.06,Warning,,Closed,2026-06-28,2026-06-28
+EVT-00004,MTR-013,Pumps,Medium,Mechanical,Bearing degradation,rule_bearing,2026-07-18 21:00:00,2026-07-19 02:00:00,6.0,18.86,Advisory,24.12,Closed,2026-07-18,2026-07-19
+EVT-00005,MTR-013,Pumps,Medium,Mechanical,Bearing degradation,rule_bearing,2026-07-21 12:00:00,2026-07-25 23:00:00,108.0,48.01,Warning,21.5,Closed,2026-07-21,2026-07-25
+EVT-00006,MTR-024,Finishing,Low,Mechanical,Bearing degradation,rule_bearing,2026-07-22 04:00:00,2026-07-22 17:00:00,14.0,17.3,Advisory,22.83,Closed,2026-07-22,2026-07-22
+EVT-00007,MTR-024,Finishing,Low,Mechanical,Bearing degradation,rule_bearing,2026-07-24 02:00:00,2026-07-25 18:00:00,41.0,36.28,Warning,20.92,Closed,2026-07-24,2026-07-25
+EVT-00008,MTR-013,Pumps,Medium,Mechanical,Bearing degradation,rule_bearing,2026-07-27 19:00:00,2026-07-29 20:00:00,50.0,49.12,Warning,15.21,Closed,2026-07-27,2026-07-29
+EVT-00009,MTR-024,Finishing,Low,Mechanical,Bearing degradation,rule_bearing,2026-07-28 10:00:00,2026-07-30 21:00:00,60.0,45.55,Warning,16.58,Closed,2026-07-28,2026-07-30
+EVT-00010,MTR-007,Conveyors,Medium,Thermal,Cooling degradation,rule_cooling,2026-07-28 21:00:00,2026-08-16 15:00:00,451.0,30.99,Warning,18.12,Closed,2026-07-28,2026-08-16
+EVT-00011,MTR-013,Pumps,Medium,Mechanical,Mechanical vibration / misalignment,rule_misalignment,2026-07-30 19:00:00,2026-08-09 13:00:00,235.0,57.41,Critical,12.21,Closed,2026-07-30,2026-08-09
+EVT-00012,MTR-013,Pumps,Medium,Mechanical,Bearing degradation,rule_bearing,2026-07-30 20:00:00,2026-08-01 09:00:00,38.0,50.31,Critical,12.17,Closed,2026-07-30,2026-08-01
+EVT-00013,MTR-024,Finishing,Low,Mechanical,Bearing degradation,rule_bearing,2026-07-31 11:00:00,2026-07-31 12:00:00,2.0,46.24,Warning,13.54,Closed,2026-07-31,2026-07-31
+EVT-00014,MTR-024,Finishing,Low,Mechanical,Bearing degradation,rule_bearing,2026-08-01 15:00:00,2026-08-01 22:00:00,8.0,45.44,Warning,12.38,Closed,2026-08-01,2026-08-01
+EVT-00015,MTR-024,Finishing,Low,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-03 00:00:00,2026-08-03 00:00:00,1.0,39.63,Warning,11.0,Closed,2026-08-03,2026-08-03
+EVT-00016,MTR-013,Pumps,Medium,Mechanical,Bearing degradation,rule_bearing,2026-08-03 04:00:00,2026-08-06 18:00:00,87.0,55.05,Critical,8.83,Closed,2026-08-03,2026-08-06
+EVT-00017,MTR-024,Finishing,Low,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-04 00:00:00,2026-08-04 03:00:00,4.0,69.46,Critical,10.0,Closed,2026-08-04,2026-08-04
+EVT-00018,MTR-024,Finishing,Low,Mechanical,Bearing degradation,rule_bearing,2026-08-04 01:00:00,2026-08-05 17:00:00,41.0,69.46,Critical,9.96,Closed,2026-08-04,2026-08-05
+EVT-00019,MTR-019,Finishing,High,Mechanical,Bearing degradation,rule_bearing,2026-08-05 07:00:00,2026-08-07 08:00:00,50.0,29.21,Warning,13.71,Closed,2026-08-05,2026-08-07
+EVT-00020,MTR-024,Finishing,Low,Mechanical,Mechanical vibration / misalignment,rule_misalignment,2026-08-05 09:00:00,2026-08-14 09:00:00,217.0,75.36,Critical,8.62,Closed,2026-08-05,2026-08-14
+EVT-00021,MTR-024,Finishing,Low,Mechanical,Bearing degradation,rule_bearing,2026-08-06 06:00:00,2026-08-06 06:00:00,1.0,45.73,Warning,7.75,Closed,2026-08-06,2026-08-06
+EVT-00022,MTR-024,Finishing,Low,Mechanical,Bearing degradation,rule_bearing,2026-08-06 21:00:00,2026-08-08 17:00:00,45.0,46.37,Warning,7.12,Closed,2026-08-06,2026-08-08
+EVT-00023,MTR-019,Finishing,High,Mechanical,Bearing degradation,rule_bearing,2026-08-07 23:00:00,2026-08-08 10:00:00,12.0,30.37,Warning,11.04,Closed,2026-08-07,2026-08-08
+EVT-00024,MTR-013,Pumps,Medium,Mechanical,Bearing degradation,rule_bearing,2026-08-08 08:00:00,2026-08-09 02:00:00,19.0,55.03,Critical,3.67,Closed,2026-08-08,2026-08-09
+EVT-00025,MTR-028,Pumps,Medium,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-09 07:00:00,2026-08-09 07:00:00,1.0,25.48,Warning,12.71,Closed,2026-08-09,2026-08-09
+EVT-00026,MTR-013,Pumps,Medium,Thermal,Cooling degradation,rule_cooling,2026-08-09 16:00:00,2026-08-10 04:00:00,13.0,12.43,Advisory,2.33,Closed,2026-08-09,2026-08-10
+EVT-00027,MTR-024,Finishing,Low,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-10 01:00:00,2026-08-10 01:00:00,1.0,68.32,Critical,3.96,Closed,2026-08-10,2026-08-10
+EVT-00028,MTR-013,Pumps,Medium,Mechanical,Mechanical vibration / misalignment,rule_misalignment,2026-08-10 06:00:00,2026-08-12 10:00:00,53.0,82.89,Critical,1.75,Closed,2026-08-10,2026-08-12
+EVT-00029,MTR-013,Pumps,Medium,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-10 07:00:00,2026-08-10 07:00:00,1.0,76.35,Critical,1.71,Closed,2026-08-10,2026-08-10
+EVT-00030,MTR-013,Pumps,Medium,Mechanical,Bearing degradation,rule_bearing,2026-08-10 12:00:00,2026-08-12 09:00:00,46.0,82.89,Critical,1.5,Closed,2026-08-10,2026-08-12
+EVT-00031,MTR-024,Finishing,Low,Mechanical,Bearing degradation,rule_bearing,2026-08-10 15:00:00,2026-08-14 05:00:00,87.0,75.36,Critical,3.38,Closed,2026-08-10,2026-08-14
+EVT-00032,MTR-019,Finishing,High,Mechanical,Bearing degradation,rule_bearing,2026-08-10 17:00:00,2026-08-10 18:00:00,2.0,40.52,Warning,8.29,Closed,2026-08-10,2026-08-10
+EVT-00033,MTR-028,Pumps,Medium,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-11 05:00:00,2026-08-12 19:00:00,39.0,28.68,Warning,10.79,Closed,2026-08-11,2026-08-12
+EVT-00034,MTR-005,Utilities,High,Mechanical,Bearing degradation,rule_bearing,2026-08-11 06:00:00,2026-08-13 01:00:00,44.0,25.47,Warning,12.75,Closed,2026-08-11,2026-08-13
+EVT-00035,MTR-019,Finishing,High,Mechanical,Bearing degradation,rule_bearing,2026-08-11 13:00:00,2026-08-16 00:00:00,108.0,61.55,Critical,7.46,Closed,2026-08-11,2026-08-16
+EVT-00036,MTR-013,Pumps,Medium,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-12 01:00:00,2026-08-12 01:00:00,1.0,82.89,Critical,,Closed,2026-08-12,2026-08-12
+EVT-00037,MTR-013,Pumps,Medium,Thermal,Cooling degradation,rule_cooling,2026-08-12 11:00:00,2026-08-12 12:00:00,2.0,20.04,Warning,,Closed,2026-08-12,2026-08-12
+EVT-00038,MTR-028,Pumps,Medium,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-13 08:00:00,2026-08-13 14:00:00,7.0,27.83,Warning,8.67,Closed,2026-08-13,2026-08-13
+EVT-00039,MTR-024,Finishing,Low,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-13 14:00:00,2026-08-13 14:00:00,1.0,75.36,Critical,0.42,Closed,2026-08-13,2026-08-13
+EVT-00040,MTR-019,Finishing,High,Load,Mechanical overload,rule_overload,2026-08-14 00:00:00,2026-08-14 02:00:00,3.0,58.04,Critical,5.0,Closed,2026-08-14,2026-08-14
+EVT-00041,MTR-005,Utilities,High,Electrical,Electrical unbalance,rule_unbalance,2026-08-14 09:00:00,2026-08-24 04:00:00,236.0,65.33,Critical,9.62,Closed,2026-08-14,2026-08-24
+EVT-00042,MTR-028,Pumps,Medium,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-15 18:00:00,2026-08-17 17:00:00,48.0,25.85,Warning,6.25,Closed,2026-08-15,2026-08-17
+EVT-00043,MTR-019,Finishing,High,Load,Mechanical overload,rule_overload,2026-08-15 23:00:00,2026-08-16 00:00:00,2.0,61.55,Critical,3.04,Closed,2026-08-15,2026-08-16
+EVT-00044,MTR-019,Finishing,High,Load,Mechanical overload,rule_overload,2026-08-16 22:00:00,2026-08-17 09:00:00,12.0,55.42,Critical,2.08,Closed,2026-08-16,2026-08-17
+EVT-00045,MTR-019,Finishing,High,Load,Mechanical overload,rule_overload,2026-08-17 23:00:00,2026-08-19 00:00:00,26.0,67.76,Critical,1.04,Closed,2026-08-17,2026-08-19
+EVT-00046,MTR-019,Finishing,High,Mechanical,Bearing degradation,rule_bearing,2026-08-18 06:00:00,2026-08-19 00:00:00,19.0,67.76,Critical,0.75,Closed,2026-08-18,2026-08-19
+EVT-00047,MTR-028,Pumps,Medium,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-18 14:00:00,2026-08-18 23:00:00,10.0,26.94,Warning,3.42,Closed,2026-08-18,2026-08-18
+EVT-00048,MTR-019,Finishing,High,Thermal,Cooling degradation,rule_cooling,2026-08-19 11:00:00,2026-08-19 15:00:00,5.0,26.02,Warning,,Closed,2026-08-19,2026-08-19
+EVT-00049,MTR-024,Finishing,Low,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-19 13:00:00,2026-08-19 13:00:00,1.0,26.92,Warning,,Closed,2026-08-19,2026-08-19
+EVT-00050,MTR-028,Pumps,Medium,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-19 16:00:00,2026-08-20 08:00:00,17.0,27.97,Warning,2.33,Closed,2026-08-19,2026-08-20
+EVT-00051,MTR-028,Pumps,Medium,Instrumentation,Temperature sensor anomaly,rule_temp_sensor,2026-08-21 00:00:00,2026-08-21 18:00:00,19.0,26.21,Warning,1.0,Closed,2026-08-21,2026-08-21
